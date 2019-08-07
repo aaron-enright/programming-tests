@@ -6,7 +6,7 @@ in a format that they weren't used to, as well as see how they approached the pr
 
 The programming test starts with a piece of old code that is really just C, not C++:
 
-![LinkedList-Original.cpp](LinkedLists\LinkedList-Original.pdf)
+![LinkedList-Original.cpp](LinkedList-Original.pdf)
 
 We present this code either on a white-board or in a printout, then ask the following questions:
 
