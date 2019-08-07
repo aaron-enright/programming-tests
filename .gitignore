@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/programming-tests/v16
+/LinkedLists/C-plus-plus/LinkedLists/LinkedList-InsertAtEnd/Debug
+/LinkedLists/C-plus-plus/LinkedLists/LinkedList-MultiInsert/Debug
+/LinkedLists/C-plus-plus/LinkedLists/LinkedList-Remove/Debug
+/LinkedLists/C-plus-plus/LinkedLists/LinkedLists/.vs/LinkedLists/v16
+/LinkedLists/C-plus-plus/LinkedLists/LinkedLists-Original/Debug

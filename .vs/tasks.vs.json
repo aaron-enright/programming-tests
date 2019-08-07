@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-LinkedLists-Original",
+      "appliesTo": "LinkedLists/C-plus-plus/LinkedLists/LinkedLists-Original.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-LinkedLists",
+      "appliesTo": "LinkedLists/C-plus-plus/LinkedLists/",
+      "type": "launch"
+    }
+  ]
+}
