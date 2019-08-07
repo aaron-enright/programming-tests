@@ -6,59 +6,7 @@ in a format that they weren't used to, as well as see how they approached the pr
 
 The programming test starts with a piece of old code that is really just C, not C++:
 
-```cplus
-#include <iostream>
-
-struct _link
-{
-	int value;
-	_link* next;
-};
-
-typedef _link* LinkedList;
-
-LinkedList CreateNode(int value)
-{
-	LinkedList newNode = (LinkedList)malloc(sizeof(_link));
-	newNode->value = value;
-	newNode->next = NULL;
-
-	return newNode;
-};
-
-void PrintList(LinkedList list)
-{
-	while (list != NULL)
-	{
-		std::cout << list->value << " ";
-		list = list->next;
-	}
-
-	std::cout << "\n";
-}
-
-LinkedList Insert(LinkedList list, int value)
-{
-	LinkedList newList = CreateNode(value);
-	newList->next = list;
-
-	return newList;
-}
-
-int main()
-{
-	LinkedList mylist = NULL;
-
-	mylist = Insert(mylist, 3);
-	mylist = Insert(mylist, 7);
-	mylist = Insert(mylist, 5);
-	mylist = Insert(mylist, 12);
-
-	PrintList(mylist);
-
-	return 0;
-}
-```
+![LinkedList-Original.cpp](LinkedList-Original.pdf)
 
 We present this code either on a white-board or in a printout, then ask the following questions:
 
