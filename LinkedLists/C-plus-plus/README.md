@@ -9,9 +9,9 @@ The programming test starts with a piece of old code that is really just C, not 
 ![LinkedList-Original.cpp](LinkedList-Original.png)
 
 <div class="list">
-<iframe src="LinkedLists/LinkedList-Original/LinkedList-Original.cpp">
+<object data="LinkedLists/LinkedList-Original/LinkedList-Original.cpp">
 Your browser does not support the iframe tag!
-</iframe>
+</object>
 </div>
 
 We present this code either on a white-board or in a printout, then ask the following questions:
