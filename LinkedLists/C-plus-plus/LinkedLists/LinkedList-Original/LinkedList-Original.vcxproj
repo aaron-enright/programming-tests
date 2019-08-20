@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{E780A3E5-6656-4250-9B38-758AC542BBAA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>LinkedListsOriginal</RootNamespace>
+    <RootNamespace>LinkedListOriginal</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,7 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="LinkedLists-Original.cpp" />
+    <ClCompile Include="LinkedList-Original.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
