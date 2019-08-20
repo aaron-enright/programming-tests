@@ -8,7 +8,7 @@ The programming test starts with a piece of old code that is really just C, not 
 
 ![LinkedList-Original.cpp](LinkedList-Original.png)
 
-> [LinkedList-Original.cpp](programming-tests/LinkedLists/LinkedList-Original/LinkedList-Original.cpp)
+> [LinkedList-Original.cpp](LinkedLists/LinkedList-Original/LinkedList-Original.cpp)
 
 We present this code either on a white-board or in a printout, then ask the following questions:
 
