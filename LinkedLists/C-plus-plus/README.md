@@ -8,7 +8,9 @@ The programming test starts with a piece of old code that is really just C, not 
 
 ![LinkedList-Original.cpp](LinkedList-Original.png)
 
-> ![LinkedList-Original.cpp](LinkedLists/LinkedList-Original/LinkedList-Original.cpp)
+<object data="https://github.com/aaron-enright/programming-tests/blob/master/LinkedLists/C-plus-plus/LinkedLists/LinkedList-Original/LinkedList-Original.cpp">
+Your browser does not support the object tag!
+</object>
 
 We present this code either on a white-board or in a printout, then ask the following questions:
 
