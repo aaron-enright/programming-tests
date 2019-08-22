@@ -4,9 +4,10 @@
     "\\LinkedLists",
     "\\LinkedLists\\C-plus-plus",
     "\\LinkedLists\\C-plus-plus\\LinkedLists",
-    "\\LinkedLists\\C-plus-plus\\LinkedLists\\LinkedLists",
-    "\\LinkedLists\\C-plus-plus\\LinkedLists\\LinkedLists-Original"
+    "\\LinkedLists\\C-plus-plus\\LinkedLists\\LinkedList-MultiInsert",
+    "\\LinkedLists\\C-plus-plus\\LinkedLists\\LinkedList-Original",
+    "\\LinkedLists\\C-plus-plus\\LinkedLists\\LinkedLists"
   ],
-  "SelectedNode": "\\LinkedLists\\C-plus-plus\\LinkedList-Original.png",
+  "SelectedNode": "\\LinkedLists\\README.md",
   "PreviewInSolutionExplorer": false
 }

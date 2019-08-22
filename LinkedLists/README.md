@@ -7,4 +7,4 @@ Like all my programming tests, the idea is not necessarily to get the "right" an
 were born to be), but to discuss with the candidate how they approach the problem and evaluate their reasoning process.  I would expect minimally competant programmers to be able to answer the first two
 questions, and any decent programmer to answer all of them in under an hour.
 
-[C++ Version](C-plus-plus/LinkedLists/readme.md)
+[C++ Version](C-plus-plus/README.md)
