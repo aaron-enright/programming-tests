@@ -40,10 +40,11 @@ like local variables).
 4. [LinkedList Remove](LinkedLists/LinkedList-Remove/LinkedList-Remove.cpp)
 5. [LinkedList InsertAtEnd](LinkedLists/LinkedList-InsertAtEnd/LinkedList-InsertAtEnd.cpp)
 6. [LinkedList Class](LinkedLists/LinkedList-Class/LinkedList-Class.cpp)
-7. [LinkedList ABC](LinkedLists/LinkedList-ABC/LinkedList-ABC.h)
-   [LinkedList ABC](LinkedLists/LinkedList-ABC/LinkedList-ABC.cpp)
+7. [LinkedList ABC (header)](LinkedLists/LinkedList-ABC/LinkedList-ABC.h)
+   [LinkedList ABC (cpp)](LinkedLists/LinkedList-ABC/LinkedList-ABC.cpp)
 8. [LinkedList Sorted](LinkedLists/LinkedList-Sorted/LinkedList-Sorted.cpp)
 9. [LinkedList FIFO](LinkedLists/LinkedList-FIFO/LinkedList-FIFO.cpp)
-10. [LinkedList Template](LinkedLists/LinkedList-Template/LinkedList-Template.cpp)
+10. [LinkedList Template (header)](LinkedLists/LinkedList-Template/LinkedList-Template.h)
+    [LinkedList Template (cpp)](LinkedLists/LinkedList-Template/LinkedList-Template.cpp)
 
 
